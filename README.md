@@ -24,13 +24,13 @@ Le slide della nostra presentazione finale si trovano qui:
 
 L'analisi del progetto si sviluppa attraverso quattro grandi ambiti tematici:
 
-- ** Geopolitica:** Analizzare la diffusione e l'evoluzione del fenomeno a livello globale, considerando le dinamiche tra diverse aree del mondo.
+- **Geopolitica:** Analizzare la diffusione e l'evoluzione del fenomeno a livello globale, considerando le dinamiche tra diverse aree del mondo.
 
-- ** Economia:** Studiare gli aspetti economici legati al fenomeno, osservando l'andamento dei mercati e dei principali indicatori finanziari.
+- **Economia:** Studiare gli aspetti economici legati al fenomeno, osservando l'andamento dei mercati e dei principali indicatori finanziari.
 
-- ** Sociale:** Esaminare l'impatto sulla società, analizzando i comportamenti, i cambiamenti nel tempo e le caratteristiche delle persone coinvolte.
+- **Sociale:** Esaminare l'impatto sulla società, analizzando i comportamenti, i cambiamenti nel tempo e le caratteristiche delle persone coinvolte.
 
-- ** Socio-sanitaria e intervento pubblico:** Valutare le conseguenze sociali e sanitarie del fenomeno, insieme alle strategie di prevenzione, assistenza e contrasto adottate dalle istituzioni.
+- **Socio-sanitaria e intervento pubblico:** Valutare le conseguenze sociali e sanitarie del fenomeno, insieme alle strategie di prevenzione, assistenza e contrasto adottate dalle istituzioni.
 
 ---
 
