@@ -1,52 +1,56 @@
 # Visualizzazione-Scientifica
 
-# L'Impatto delle Sostanze Stupefacenti: Come le droghe agiscono sul mondo che ci circonda
+# L'Impatto delle Sostanze Stupefacenti: Analisi visiva di un fenomeno globale
 
-## Descrizione del progetto
+## 📌 Introduzione al Progetto
 
-Questo progetto si concentra sull'analisi dell'impatto delle sostanze stupefacenti sulla società e sulla salute pubblica, utilizzando tecniche di visualizzazione scientifica applicate a dati socio-sanitari, geopolitici ed economici. In particolare, l'analisi esplora come le droghe agiscono sul mondo che ci circonda, prendendo in esame sostanze come marijuana, cocaina, eroina e metanfetamine.
+Questo lavoro si propone di mappare e interpretare le ramificazioni socio-sanitarie, geopolitiche ed economiche legate alla diffusione delle sostanze stupefacenti. Attraverso l'applicazione di metodologie avanzate di visualizzazione scientifica su dati pubblici, l'indagine esamina i vettori di impatto e le dinamiche territoriali di sostanze chiave quali marijuana, cocaina, eroina e metanfetamine.
 
-I dati riguardanti il narcotraffico e le conseguenze sanitarie sono spesso caratterizzati da una forte complessità demografica e geografica. Per questo motivo, la visualizzazione scientifica è uno strumento per esplorare i dataset e mettere in evidenza l'evoluzione della diffusione globale, i trend di mercato e le emergenze sanitarie.
+La natura intrinsecamente complessa dei fenomeni di narcotraffico e delle loro ricadute sulla salute pubblica — caratterizzata da un'elevata eterogeneità geografica e demografica — rende i dati numerici grezzi difficili da interpretare. In questo contesto, la visualizzazione scientifica emerge come uno strumento conoscitivo fondamentale per decodificare i dataset, portando alla luce trend di mercato, evoluzioni temporali della diffusione e quadri di emergenza sanitaria altrimenti latenti.
 
-Nel corso del progetto sono state adottate diverse tecniche di visualizzazione, tra cui mappe interattive con slider temporali, diagrammi di flusso, scatter plot ed altri tipi di grafici, con l'obiettivo di valutare l'efficacia di ciascun approccio nell'interpretare i dati dal 1990 ad oggi.
+Durante lo sviluppo della ricerca, l'efficacia comunicativa e analitica delle diverse rappresentazioni è stata testata e confrontata attraverso una pluralità di approcci metodologici: dalle cartografie interattive dotate di navigazione temporale, ai diagrammi di flusso e scatter plot, coprendo un arco temporale che va dal 1990 ai giorni nostri.
 
-Il progetto è stato sviluppato nell'ambito del corso Visualizzazione Scientifica e mira a ricordare che l'abuso di droghe è spesso sintomo di disagio sociale e vulnerabilità individuale, e che dietro ogni statistica ci sono vite umane da tutelare.
+Realizzato nell'ambito del corso di **Visualizzazione Scientifica**, il progetto intende inoltre sottolineare come il fenomeno della tossicodipendenza sia profondamente radicato in contesti di marginalità e vulnerabilità sociale, ricordando che dietro la freddezza delle metriche statistiche si celano storie e vite umane da salvaguardare.
 
-Le slide della presentazione finale sono disponibili qui:
+---
+
+### 📂 Risorse e Slide
+Il materiale di supporto e le slide della presentazione finale sono consultabili al seguente link:
 👉 [**Presentazione Canva - L'Impatto delle Sostanze Stupefacenti**](https://canva.link/l5aom6jt0oc4m4p)
 
 ---
 
-## 🎯 Obiettivi
+## 🎯 Obiettivi di Ricerca
 
-Gli obiettivi principali del progetto sono:
-* Tracciare la diffusione globale delle sostanze e le rotte geopolitiche del narcotraffico internazionale, dai paesi produttori ai mercati consumatori.
-* Esplorare l'economia del narcotraffico analizzando le variazioni di prezzo e purezza, e il ricarico dalla filiera all'ingrosso al dettaglio in Italia.
-* Individuare i cambiamenti nelle dinamiche sociali, come il consumo per fasce d'età e l'assottigliamento del divario di genere dal 1990 al 2023.
-* Valutare l'emergenza sanitaria monitorando il forte incremento dei decessi per overdose e l'accoglienza degli utenti nei SerD tra il 2020 e il 2024.
-* Analizzare le operazioni antidroga in Italia rapportandole alla densità abitativa delle varie regioni.
-
----
-
-## 📁 Dataset
-
-Sono stati utilizzati dataset pubblici provenienti dalle seguenti fonti ufficiali:
-* UNODC (United Nations Office on Drugs and Crime).
-* EMCDDA (Osservatorio Europeo delle Droghe).
-* ISTAT (Istituto Nazionale di Statistica).
-* Ministero della Salute.
+L'indagine è stata strutturata attorno a cinque macro-obiettivi strategici:
+1. **Flussi e Geopolitica:** Ricostruire le direttrici del narcotraffico internazionale, tracciando il percorso delle sostanze dai territori d'origine e di produzione fino ai mercati di consumo globale.
+2. **Dimensione Economica:** Esplorare i meccanismi economici del mercato illecito, esaminando il rapporto tra purezza e prezzo e quantificando i margini di ricarico lungo la filiera distributiva (dall'ingrosso al dettaglio) nel contesto italiano.
+3. **Evoluzione Demografica:** Analizzare le oscillazioni nei pattern di consumo su base generazionale e monitorare il progressivo livellamento del divario di genere registrato tra il 1990 e il 2023.
+4. **Impatto Sanitario:** Quantificare la crisi sanitaria recente attraverso il monitoraggio dei decessi per overdose e l'analisi del flusso di utenza assistita dai SerD (Servizi per le Dipendenze) nel quinquennio 2020-2024.
+5. **Azione di Contrasto sul Territorio:** Mappare la distribuzione geografica delle operazioni antidroga in Italia, correlandone l'intensità con la densità demografica delle differenti regioni.
 
 ---
 
-## 📈 Tecniche di visualizzazione
+## 📁 Fonti e Dataset
 
-Nel progetto sono state utilizzate diverse tecniche, scelte in funzione dello specifico obiettivo analitico:
-* **Mappe interattive:** Per confrontare l'utilizzo globale delle sostanze dal 1990 al 2023.
-* **Diagrammi a flussi (Sankey/Alluvial):** Per tracciare le rotte geopolitiche dal Messico, Colombia e altri produttori verso il Nord America, Europa e altri continenti.
-* **Grafici a barre:** Per l'analisi dei sequestri in Europa e l'evoluzione temporale (2005-2023) delle Nuove Sostanze Psicoattive come cannabinoidi e catinoni.
-* **Grafici a linee:** Per monitorare i trend di purezza rispetto al prezzo (2019-2023) e l'andamento degli utenti in carico ai SerD.
-* **Scatter plot:** Per evidenziare l'assottigliamento del divario di genere nel consumo e per mappare le operazioni antidroga regionali rispetto alla densità abitativa.
-* **Grafici ad area:** Per mostrare l'incremento critico dei decessi stimati per overdose suddivisi per fasce d'età.
+L'analisi poggia su basi informative robuste fornite da archivi e database istituzionali ad accesso pubblico:
+* **UNODC** (United Nations Office on Drugs and Crime)
+* **EMCDDA** (Osservatorio Europeo delle Droghe e delle Tossicodipendenze)
+* **ISTAT** (Istituto Nazionale di Statistica)
+* **Ministero della Salute** (Repubblica Italiana)
+
+---
+
+## 📈 Tecniche di Visualizzazione Implementate
+
+Per rispondere in modo mirato a ciascun quesito analitico, sono state selezionate e implementate soluzioni grafiche differenziate:
+
+* **Mappe Geospaziali Interattive:** Utilizzate per abilitare il confronto dinamico e l'evoluzione storica (1990-2023) dei tassi di consumo a livello globale.
+* **Diagrammi di Flusso (Sankey & Alluvial):** Adottati per rendere visivamente intuitivo il trasferimento delle sostanze dai paesi produttori (es. Colombia, Messico) verso le principali aree di destinazione (Nord America, Europa).
+* **Grafici a Barre Multidimensionali:** Impiegati per quantificare i volumi dei sequestri sul suolo europeo e monitorare l'emergere e lo sviluppo temporale (2005-2023) delle Nuove Sostanze Psicoattive (NPS) come catinoni e cannabinoidi sintetici.
+* **Grafici di Serie Storiche (Linee):** Ideati per evidenziare la correlazione tra l'andamento dei prezzi e i livelli di purezza (2019-2023), nonché per descrivere i trend di affluenza presso le strutture SerD.
+* **Scatter Plot (Grafici a Dispersione):** Sfruttati sia per mettere in risalto la convergenza di genere nei comportamenti di consumo, sia per posizionare le attività di contrasto delle forze dell'ordine in relazione alla densità abitativa regionale.
+* **Grafici ad Area Cumulativa:** Scelti per rappresentare visivamente la severità della mortalità per overdose, evidenziando il trend incrementale suddiviso per coorti d'età.
 
 ---
 
