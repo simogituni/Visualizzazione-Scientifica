@@ -13,7 +13,7 @@ Nel corso del progetto sono state adottate diverse tecniche di visualizzazione, 
 Il progetto è stato sviluppato nell'ambito del corso Visualizzazione Scientifica e mira a ricordare che l'abuso di droghe è spesso sintomo di disagio sociale e vulnerabilità individuale, e che dietro ogni statistica ci sono vite umane da tutelare.
 
 Le slide della presentazione finale sono disponibili qui:
-👉 [**Presentazione Canva - L'Impatto delle Sostanze Stupefacenti**]([https://canva.link/l5aom6jt0oc4m4p](https://canva.link/l5aom6jt0oc4m4p))
+👉 [**Presentazione Canva - L'Impatto delle Sostanze Stupefacenti**](https://canva.link/l5aom6jt0oc4m4p)
 
 ---
 
