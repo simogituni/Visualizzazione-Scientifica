@@ -44,20 +44,6 @@ Abbiamo utilizzato dati pubblici e ufficiali provenienti da:
 
 ---
 
-## 📈 Tecniche di visualizzazione utilizzate
-
-Nel progetto sono state applicate le seguenti tipologie di grafici:
-
-* **Mappe interattive con slider temporale**
-* **Diagrammi di flusso (Sankey / Alluvial)**
-* **Donut chart (Grafici a torta)**
-* **Grafici a barre (orizzontali e verticali)**
-* **Grafici a linee**
-* **Scatter plot (Grafici a dispersione)**
-* **Grafici ad area**
-
----
-
 ## 👥 Chi siamo (Autori)
 
 * **Simone Anardu**
